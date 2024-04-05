@@ -1,6 +1,6 @@
 # Who Bears the Burden? Decoding Climate Equity with PCA
 
-In this groundbreaking analysis, we utilize Principal Component Analysis (PCA) to unravel the complex narrative of climate equity. Through a meticulous examination of GDP, population metrics, historical emissions, and adaptation scores, this project distills nuanced insights into the roles and responsibilities of nations within the global climate crisis framework. 
+In this in-depth analysis, we utilize Principal Component Analysis (PCA) to unravel the complex narrative of climate equity. Through a meticulous examination of GDP, population metrics, historical emissions, and adaptation scores, this project distills nuanced insights into the roles and responsibilities of nations within the global climate crisis framework. 
 
 ## Project Overview
 
