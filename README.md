@@ -28,7 +28,7 @@ This project employs a suite of data science tools and techniques, showcasing pr
 
 ## Visualizing Climate Equity
 
-[Explore the Interactive 3D Plot on Climate Equity](https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/climate_equity_3d_plot_interactive.html)
+[Explore the Interactive 3D Plot on Climate Equity](https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pca_3d.html)
 
 The visualizations crafted in this project serve not just to illustrate our findings but to spark dialogue and deepen understanding of climate equity. They emphasize the varied positions and potentials of nations in contributing to a collective solution for a sustainable future.
 
