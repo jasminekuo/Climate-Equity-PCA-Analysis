@@ -23,6 +23,7 @@ This project employs a suite of data science tools and techniques, showcasing pr
 
 - **Data Preparation**: Dive into our dataset compilation process, featuring socio-economic indicators and emissions records crucial for understanding climate equity.
 - **Feature Engineering**: Explore how we distilled key indicators to capture the essence of climate equity from multiple perspectives.
+- **Correlation Analysis**:  Uncover the intricate relationships between economic strength, emissions, and climate vulnerability, setting the foundation for a deeper PCA-driven exploration.
 - **PCA Analysis**: Understand our approach to simplifying dataset complexity, preserving variance, and unveiling dominant patterns in global climate dynamics.
 
 ## Visualizing Climate Equity
