@@ -45,7 +45,7 @@ This project employs a suite of data science tools and techniques, showcasing pr
   <summary>&emsp;Feature Contributions: Breaks down the contribution of each feature to the principal components, clarifying their impact on the analysis.</summary>
 
   <p align="center">
-    <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/feature_contributions.png" alt="Feature Contributions" width="600">
+    <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/feature_contributions.png" alt="Feature Contributions" width="800">
   </p>
 </details>
 
