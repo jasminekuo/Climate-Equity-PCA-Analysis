@@ -30,45 +30,38 @@ This project employs a suite of data science tools and techniques, showcasing pr
 
 We present a range of visualizations to deepen understanding and exploration of our climate equity analysis:
 
-<p align="left">
-&emsp; <strong>Correlation Heatmap</strong>: Illuminates the relationships between variables, emphasizing the interconnectedness of economic strength, emissions, and climate vulnerability.
-</p>
+- **Correlation Heatmap**: Illuminates the relationships between variables, emphasizing the interconnectedness of economic strength, emissions, and climate vulnerability.
+
 <p align="center">
 <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/correlation_heatmap.png" alt="Correlation Heatmap" width="800">
 </p>
+
+- **Scree Plot & Cumulative Explained Variance Plot**: These plots help in determining the number of principal components to retain, illustrating the variance captured by each component.
 
 <p align="center">
 <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/scree_plot.png" alt="Scree Plot" width="400">
 <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/cumulative_explained_variance_plot.png" alt="Cumulative Explained Variance Plot" width="400">
 </p>
-<p align="center">
-&emsp; <strong>Scree Plot & Cumulative Explained Variance Plot</strong>: These plots help in determining the number of principal components to retain, illustrating the variance captured by each component.
-</p>
 
+- **Feature Contributions**: Breaks down the contribution of each feature to the principal components, clarifying their impact on the analysis.
 
 <p align="center">
 <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/feature_contributions.png" alt="Feature Contributions" width="1000">
 </p>
-<p align="center">
-&emsp; <strong>Feature Contributions</strong>: Breaks down the contribution of each feature to the principal components, clarifying their impact on the analysis.
-</p>
 
+- **PCA Scatter Plots (PC1 vs PC2, PC2 vs PC3)**: Map the strategic positioning of countries within the PCA space, highlighting their roles and responsibilities in climate equity.
 
 <p align="center">
 <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pc1_pc2.png" alt="PC1 vs PC2" width="400">
 <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pc2_pc3.png" alt="PC2 vs PC3" width="400">
 </p>
-<p align="center">
-&emsp; <strong>PCA Scatter Plots (PC1 vs PC2, PC2 vs PC3)</strong>: Map the strategic positioning of countries within the PCA space, highlighting their roles and responsibilities in climate equity.
-</p>
+
+- **Interactive 3D Plot on Climate Equity**: Explore this interactive plot for a comprehensive view across principal components, enhancing the exploration of our findings. (Note: This plot is interactive and will open in a new tab)
 
 <p align="center">
 <a href="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis//Plots/pca_3d.html">
    <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pca_3d.png" alt="Interactive 3D Plot on Climate Equity" width="600">
  </a>
-</p>
-<p align="center">
-&emsp; <strong>Interactive 3D Plot on Climate Equity</strong>: Explore this interactive plot for a comprehensive view across principal components, enhancing the exploration of our findings. (Note: This plot is interactive and will open in a new tab)
 </p>
 
 ## Conclusion and Call to Action
