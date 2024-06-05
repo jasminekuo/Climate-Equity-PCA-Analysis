@@ -30,13 +30,12 @@ This project employs a suite of data science tools and techniques, showcasing pr
 
 We present a range of visualizations to deepen understanding and exploration of our climate equity analysis:
 
+<p align="left">
+&emsp; <strong>Correlation Heatmap</strong>: Illuminates the relationships between variables, emphasizing the interconnectedness of economic strength, emissions, and climate vulnerability.
+</p>
 <p align="center">
 <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/correlation_heatmap.png" alt="Correlation Heatmap" width="800">
 </p>
-<p align="center">
-&emsp; <strong>Correlation Heatmap</strong>: Illuminates the relationships between variables, emphasizing the interconnectedness of economic strength, emissions, and climate vulnerability.
-</p>
-
 
 <p align="center">
 <img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/scree_plot.png" alt="Scree Plot" width="400">
