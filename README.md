@@ -40,7 +40,7 @@ To enrich the narrative and foster greater understanding, we've included a varie
 - Explore the Interactive 3D Plot on Climate Equity for a comprehensive view across principal components, enhancing the exploration of our findings:
 
 <p align="center">
-<img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pca_3d.png" alt="Interactive 3D Plot on Climate Equity" width="800">
+<img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pca_3d.html" alt="Interactive 3D Plot on Climate Equity" width="800">
 </p>
 
 
