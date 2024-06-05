@@ -37,7 +37,12 @@ To enrich the narrative and foster greater understanding, we've included a varie
 : These plots help in determining the number of principal components to retain, illustrating the variance captured by each component.
 - [Feature Contributions](https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/feature_contributions.png): Breaks down the contribution of each feature to the principal components, clarifying their impact on the analysis.
 - PCA Scatter Plots ([PC1 vs PC2](https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pc1_pc2.html), [PC2 vs PC3](https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pc2_pc3.html)): Map the strategic positioning of countries within the PCA space, highlighting their roles and responsibilities in climate equity.
-- [Explore the Interactive 3D Plot on Climate Equity](https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pca_3d.html) for a comprehensive view across principal components, enhancing the exploration of our findings.
+- Explore the Interactive 3D Plot on Climate Equity for a comprehensive view across principal components, enhancing the exploration of our findings:
+
+<p align="center">
+<img src="https://jasminekuo.github.io/Climate-Equity-PCA-Analysis/Plots/pca_3d.png" alt="Interactive 3D Plot on Climate Equity" width="800">
+</p>
+
 
 ## Conclusion and Call to Action
 
@@ -50,5 +55,3 @@ This project is released under the [MIT License](LICENSE), promoting open access
 ## About the Author
 
 This analysis was conducted by Jasmine Kuo, a data scientist with a passion for leveraging analytics to address global challenges. For inquiries or collaboration, reach out via [Email](mailto:ik2437@nyu.edu) or [LinkedIn](https://www.linkedin.com/in/jasmineejkuo/).
-
-Thank you for exploring this project. Your insights, questions, and collaborations are what drive further exploration and understanding in the pursuit of climate equity.
